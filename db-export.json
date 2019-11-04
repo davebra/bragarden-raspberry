@@ -1,0 +1,204 @@
+{
+  "pumps" : {
+    "pump1" : "off",
+    "pump2" : "off",
+    "pump3" : "off",
+    "pump4" : "off",
+    "pump5" : "off"
+  },
+  "schedule" : {
+    "enable" : "off",
+    "pumps" : {
+      "pump1" : {
+        "override": "off",
+        "friday" : {
+          "enable" : "on",
+          "off" : "1710",
+          "on" : "1700"
+        },
+        "monday" : {
+          "enable" : "on",
+          "off" : "1710",
+          "on" : "1700"
+        },
+        "saturday" : {
+          "enable" : "on",
+          "off" : "1710",
+          "on" : "1700"
+        },
+        "sunday" : {
+          "enable" : "on",
+          "off" : "1710",
+          "on" : "1700"
+        },
+        "thursday" : {
+          "enable" : "on",
+          "off" : "1710",
+          "on" : "1700"
+        },
+        "tuesday" : {
+          "enable" : "on",
+          "off" : "1710",
+          "on" : "1700"
+        },
+        "wednesday" : {
+          "enable" : "on",
+          "off" : "1710",
+          "on" : "1700"
+        }
+      },
+      "pump2" : {
+        "override": "off",
+        "friday" : {
+          "enable" : "on",
+          "off" : "1720",
+          "on" : "1710"
+        },
+        "monday" : {
+          "enable" : "on",
+          "off" : "1720",
+          "on" : "1710"
+        },
+        "saturday" : {
+          "enable" : "on",
+          "off" : "1720",
+          "on" : "1710"
+        },
+        "sunday" : {
+          "enable" : "on",
+          "off" : "1720",
+          "on" : "1710"
+        },
+        "thursday" : {
+          "enable" : "on",
+          "off" : "1720",
+          "on" : "1710"
+        },
+        "tuesday" : {
+          "enable" : "on",
+          "off" : "1720",
+          "on" : "1710"
+        },
+        "wednesday" : {
+          "enable" : "on",
+          "off" : "1720",
+          "on" : "1710"
+        }
+      },
+      "pump3" : {
+        "override": "off",
+        "friday" : {
+          "enable" : "on",
+          "off" : "1730",
+          "on" : "1720"
+        },
+        "monday" : {
+          "enable" : "on",
+          "off" : "1730",
+          "on" : "1720"
+        },
+        "saturday" : {
+          "enable" : "on",
+          "off" : "1730",
+          "on" : "1720"
+        },
+        "sunday" : {
+          "enable" : "on",
+          "off" : "1730",
+          "on" : "1720"
+        },
+        "thursday" : {
+          "enable" : "on",
+          "off" : "1730",
+          "on" : "1720"
+        },
+        "tuesday" : {
+          "enable" : "on",
+          "off" : "1730",
+          "on" : "1720"
+        },
+        "wednesday" : {
+          "enable" : "on",
+          "off" : "1730",
+          "on" : "1720"
+        }
+      },
+      "pump4" : {
+        "override": "off",
+        "friday" : {
+          "enable" : "on",
+          "off" : "1740",
+          "on" : "1730"
+        },
+        "monday" : {
+          "enable" : "on",
+          "off" : "1740",
+          "on" : "1730"
+        },
+        "saturday" : {
+          "enable" : "on",
+          "off" : "1740",
+          "on" : "1730"
+        },
+        "sunday" : {
+          "enable" : "on",
+          "off" : "1740",
+          "on" : "1730"
+        },
+        "thursday" : {
+          "enable" : "on",
+          "off" : "1740",
+          "on" : "1730"
+        },
+        "tuesday" : {
+          "enable" : "on",
+          "off" : "1740",
+          "on" : "1730"
+        },
+        "wednesday" : {
+          "enable" : "on",
+          "off" : "1740",
+          "on" : "1730"
+        }
+      },
+      "pump5" : {
+        "override": "off",
+        "friday" : {
+          "enable" : "on",
+          "off" : "1750",
+          "on" : "1740"
+        },
+        "monday" : {
+          "enable" : "on",
+          "off" : "1750",
+          "on" : "1740"
+        },
+        "saturday" : {
+          "enable" : "on",
+          "off" : "1750",
+          "on" : "1740"
+        },
+        "sunday" : {
+          "enable" : "on",
+          "off" : "1750",
+          "on" : "1740"
+        },
+        "thursday" : {
+          "enable" : "on",
+          "off" : "1750",
+          "on" : "1740"
+        },
+        "tuesday" : {
+          "enable" : "on",
+          "off" : "1750",
+          "on" : "1740"
+        },
+        "wednesday" : {
+          "enable" : "on",
+          "off" : "1750",
+          "on" : "1740"
+        }
+      }
+    }
+  }
+}

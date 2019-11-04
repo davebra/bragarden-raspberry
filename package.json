@@ -1,0 +1,16 @@
+{
+  "name": "bragarden-raspberry",
+  "version": "0.0.1",
+  "description": "Hardware part of the IoT garden watering system, a simple hobby project of mine, that use a RasperryPI as CPU.",
+  "main": "pi.js",
+  "scripts": {
+    "start": "node pi.js"
+  },
+  "author": "davebra",
+  "license": "Proprietary",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^8.7.0",
+    "moment": "^2.24.0"
+  }
+}
